@@ -1,9 +1,9 @@
 #platforms
-platforms
+platforms/*
 
 #plugins
-plugins
+#plugins
 
 #hooks
-hooks
+#hooks
 
