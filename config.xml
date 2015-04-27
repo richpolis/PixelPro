@@ -9,6 +9,6 @@
     </author>
     <content src="index.html" />
     <access origin="*" />
-    <gap:plugin name="Notification" value="org.apache.cordova.core.Notification" />
-    <gap:plugin name="Camera" value="org.apache.cordova.core.CameraLauncher" />
+    <plugin name="Notification" value="org.apache.cordova.core.Notification" />
+    <plugin name="Camera" value="org.apache.cordova.core.CameraLauncher" />
 </widget>
